@@ -76,7 +76,7 @@ multiprocessing/dummy*
 
 # unused binaries python modules
 lib-dynload/termios.so
-lib-dynload/_lsprof.so
+#lib-dynload/_lsprof.so
 lib-dynload/*audioop.so
 lib-dynload/mmap.so
 lib-dynload/_hotshot.so
